@@ -1,0 +1,34 @@
+body    {
+    padding: 0px;
+}
+
+html    {
+    background-color: lightgoldenrodyellow;
+}
+
+.header {
+    border-radius: 0px 0px 20px 20px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+    color: white;
+    background-color: lightblue;
+}
+
+.side   {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.hooter {
+    border-radius: 20px 20px 0px 0px;
+    margin-top: 50px;
+    text-align: right;
+    background-color: lightgreen;
+    padding-bottom: 60px;
+}
+
+.hooter-text {
+    padding-top: 10px;
+    padding-right: 30px;
+}
