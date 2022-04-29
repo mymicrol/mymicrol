@@ -1,5 +1,6 @@
 body    {
     padding: 0px;
+    margin: 0px;
 }
 
 html    {
@@ -9,14 +10,12 @@ html    {
 .header {
     border-radius: 0px 0px 20px 20px;
     text-align: center;
-    vertical-align: middle;
     font-size: 30px;
     color: white;
     background-color: lightblue;
 }
 
 .side   {
-    vertical-align: middle;
     display: inline-block;
 }
 
